@@ -1,0 +1,100 @@
+.container{
+    background-image: url('https://images.pexels.com/photos/674483/pexels-photo-674483.jpeg?auto=compress&cs=tinysrgb&w=600');
+    /* background-image: url('https://images.pexels.com/photos/672046/pexels-photo-672046.jpeg?auto=compress&cs=tinysrgb&w=600'); */
+    /* background-image: url('https://images.pexels.com/photos/678414/pexels-photo-678414.jpeg?auto=compress&cs=tinysrgb&w=600'); */
+    /* background-image: url('https://tse4.mm.bing.net/th?id=OIP.lf06XpNmHTFsMii3-8LcCwHaE5&pid=Api&P=0&h=180'); */
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100% 100%;
+    font-family: Courier;
+    font-size:xx-large;
+    color: black;
+}
+
+.recreate{
+    text-align: center;
+    font-weight: 500;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Courier;
+}
+
+
+.breakfast{
+    background-image: url('https://images.pexels.com/photos/9444054/pexels-photo-9444054.jpeg?auto=compress&cs=tinysrgb&w=600');
+    position: relative;
+    height: 80vh;
+    width: 70vw;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 70% 100%;
+    background-repeat: no-repeat;
+}
+
+
+.breakfast-text{
+    margin-left: 800px;
+    color: black;
+    font-weight: 500;
+    font-family: Courier;
+}
+
+
+.lunch{
+    background-image: url('https://images.pexels.com/photos/14164523/pexels-photo-14164523.jpeg?auto=compress&cs=tinysrgb&w=600');
+    position: relative;
+    height: 80vh;
+    width: 70vw;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 70% 90%;
+    background-repeat: no-repeat;
+    margin-left: 630px;
+}
+
+
+.lunch-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -1500px;
+    color: black;
+    font-family: Courier;
+    font-weight: 400;
+}
+
+
+.dinner{
+    background-image: url('https://images.pexels.com/photos/2116094/pexels-photo-2116094.jpeg?auto=compress&cs=tinysrgb&w=600');
+    position: relative;
+    height: 80vh;
+    width: 70vw;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 80% 100%;
+    background-repeat: no-repeat;
+    margin-top: -45px;
+}
+
+
+.dinner-text{
+    display: flex;
+    align-self: center;
+    color: black;
+    margin-left: 900px;
+    font-family: Courier;
+    font-weight: 400;
+}
+
+

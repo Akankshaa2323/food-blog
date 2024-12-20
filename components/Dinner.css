@@ -1,0 +1,28 @@
+.taco-image{
+    background-image: url('https://images.pexels.com/photos/15274187/pexels-photo-15274187/free-photo-of-tacos-on-table.jpeg?auto=compress&cs=tinysrgb&w=600');
+    position: relative;
+    height: 70vh;
+    width: 40vw;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+.taco-heading{
+    font-weight: 500;
+    font-family: Courier;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+
+.taco-steps{
+    font-family: Courier;
+    margin-left: 10px;
+}
+
+
+.taco2{
+    display: flex;
+}

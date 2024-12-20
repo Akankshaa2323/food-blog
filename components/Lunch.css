@@ -1,0 +1,28 @@
+.idli-image{
+    background-image: url('https://images.pexels.com/photos/14831540/pexels-photo-14831540.jpeg?auto=compress&cs=tinysrgb&w=600');
+    position: relative;
+    height: 70vh;
+    width: 40vw;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+.idli-heading{
+    font-weight: 500;
+    font-family: Courier;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+
+.idli-steps{
+    font-family: Courier;
+    margin-left: 10px;
+}
+
+
+.idli2{
+    display: flex;
+}

@@ -1,0 +1,28 @@
+.about{
+    background-image: url('https://images.pexels.com/photos/211760/pexels-photo-211760.jpeg?auto=compress&cs=tinysrgb&w=600');
+    position: relative;
+    height: 110vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    /* align-items:center; */
+    justify-content: center;
+    padding-top: 200px;
+   
+    
+    font-family: Courier; 
+    font-weight: bold;
+    /* opacity: 0.7; */
+    z-index: 1;
+    color: white;
+
+}
+
+
+.about-heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    z-index: 1;
+}
